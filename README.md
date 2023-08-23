@@ -1,3 +1,3 @@
 # Power-BI-project
-Design of a dashboard to monitor the home loan business of Credit Breton agencies
+Designing a Dashboard for Monitoring Real Estate Credit Activity in Crédit Breton's Branches
 
